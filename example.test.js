@@ -9,4 +9,8 @@ describe("Demo Test Suite", () => {
   test("Demo goood test", () => {
     expect(8 + 8).toBe(16);
   });
+
+  test("Demo go test", () => {
+    expect(7 + 8).toBe(15);
+  });
 });
